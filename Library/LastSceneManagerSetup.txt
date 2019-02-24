@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Iraira_dokidoki.unity
+  isLoaded: 1
+  isActive: 1
